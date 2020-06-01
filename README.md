@@ -1,4 +1,4 @@
 # Demo
 
 
-Learning how to use GIT 
+Learning how to use GIT via crash course!!! 
